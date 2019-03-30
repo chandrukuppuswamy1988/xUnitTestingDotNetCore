@@ -4,6 +4,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameEngine", "GameEngine\GameEngine.csproj", "{4AFC869A-D410-4410-9BF5-7F748F4BA2E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine.Tests", "GameEngine.Tests\GameEngine.Tests.csproj", "{4FDBC3D7-3110-481D-BE53-F604D718D8C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,8 +28,23 @@ Global
 		{4AFC869A-D410-4410-9BF5-7F748F4BA2E6}.Release|x64.Build.0 = Release|Any CPU
 		{4AFC869A-D410-4410-9BF5-7F748F4BA2E6}.Release|x86.ActiveCfg = Release|Any CPU
 		{4AFC869A-D410-4410-9BF5-7F748F4BA2E6}.Release|x86.Build.0 = Release|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Debug|x64.Build.0 = Debug|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Debug|x86.Build.0 = Debug|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Release|x64.ActiveCfg = Release|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Release|x64.Build.0 = Release|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Release|x86.ActiveCfg = Release|Any CPU
+		{4FDBC3D7-3110-481D-BE53-F604D718D8C7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69045054-1917-4BEE-9A7F-E91B3C0CAAF0}
 	EndGlobalSection
 EndGlobal

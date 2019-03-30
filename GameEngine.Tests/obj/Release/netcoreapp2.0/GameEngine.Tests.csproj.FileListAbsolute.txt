@@ -1,0 +1,17 @@
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\bin\Release\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\bin\Release\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\bin\Release\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\bin\Release\netcoreapp2.0\GameEngine.Tests.deps.json
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\bin\Release\netcoreapp2.0\GameEngine.Tests.runtimeconfig.json
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\bin\Release\netcoreapp2.0\GameEngine.Tests.runtimeconfig.dev.json
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\bin\Release\netcoreapp2.0\GameEngine.Tests.dll
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\bin\Release\netcoreapp2.0\GameEngine.Tests.pdb
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\obj\Release\netcoreapp2.0\GameEngine.Tests.csprojAssemblyReference.cache
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\obj\Release\netcoreapp2.0\GameEngine.Tests.csproj.CoreCompileInputs.cache
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\obj\Release\netcoreapp2.0\GameEngine.Tests.AssemblyInfoInputs.cache
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\obj\Release\netcoreapp2.0\GameEngine.Tests.AssemblyInfo.cs
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\obj\Release\netcoreapp2.0\GameEngine.Tests.dll
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\obj\Release\netcoreapp2.0\GameEngine.Tests.pdb
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\bin\Release\netcoreapp2.0\GameEngine.dll
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\bin\Release\netcoreapp2.0\GameEngine.pdb
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine.Tests\obj\Release\netcoreapp2.0\GameEngine.Tests.csproj.CopyComplete

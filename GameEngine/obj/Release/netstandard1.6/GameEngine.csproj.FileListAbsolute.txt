@@ -1,0 +1,8 @@
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine\bin\Release\netstandard1.6\GameEngine.deps.json
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine\bin\Release\netstandard1.6\GameEngine.dll
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine\bin\Release\netstandard1.6\GameEngine.pdb
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine\obj\Release\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine\obj\Release\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine\obj\Release\netstandard1.6\GameEngine.AssemblyInfo.cs
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine\obj\Release\netstandard1.6\GameEngine.dll
+E:\Repository\xUnitTestingDotNetCore\xUnitTestingDotNetCore\GameEngine\obj\Release\netstandard1.6\GameEngine.pdb

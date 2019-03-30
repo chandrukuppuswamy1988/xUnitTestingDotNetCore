@@ -4334,11 +4334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chand\\Downloads\\dotnet-core-testing-code-xunit-dotnet-getting-started\\02\\demos\\before\\01AddingTestProject\\GameEngine\\GameEngine.csproj",
+      "projectUniqueName": "E:\\Repository\\xUnitTestingDotNetCore\\xUnitTestingDotNetCore\\GameEngine\\GameEngine.csproj",
       "projectName": "GameEngine",
-      "projectPath": "C:\\Users\\chand\\Downloads\\dotnet-core-testing-code-xunit-dotnet-getting-started\\02\\demos\\before\\01AddingTestProject\\GameEngine\\GameEngine.csproj",
+      "projectPath": "E:\\Repository\\xUnitTestingDotNetCore\\xUnitTestingDotNetCore\\GameEngine\\GameEngine.csproj",
       "packagesPath": "C:\\Users\\chand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chand\\Downloads\\dotnet-core-testing-code-xunit-dotnet-getting-started\\02\\demos\\before\\01AddingTestProject\\GameEngine\\obj\\",
+      "outputPath": "E:\\Repository\\xUnitTestingDotNetCore\\xUnitTestingDotNetCore\\GameEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
