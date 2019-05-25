@@ -1,16 +1,27 @@
 using System;
 using Xunit;
+using Xunit.Abstractions;
 
 namespace GameEngine.Tests
 {
-    public class PlayerCharacterShould
+    public class PlayerCharacterShould : IDisposable
     {
-
+        private ITestOutputHelper _output;
         private PlayerCharacter _sut;
-        public PlayerCharacterShould()
+        public PlayerCharacterShould(ITestOutputHelper output)
         {
+            _output = output;
+            _output.WriteLine("Creating Player Character");
+
             _sut = new PlayerCharacter();
         }
+
+        public void Dispose()
+        {
+            _output.WriteLine($"Disposing Player Character{_sut.FullName}");
+        }
+
+
 
         [Fact]
         public void BeInexperiencedWhenNew()
@@ -151,5 +162,7 @@ namespace GameEngine.Tests
         {
             Assert.All(_sut.Weapons, weapon => Assert.False(string.IsNullOrWhiteSpace(weapon)));
         }
+
+        
     }
 }
